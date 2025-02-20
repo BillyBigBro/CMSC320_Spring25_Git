@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Amazon.com product recommendations.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing overwrites a branch's history while merging preserves the history of the branches involved.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how data science can be seen in everything.
